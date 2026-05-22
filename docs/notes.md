@@ -47,3 +47,4 @@ Notes and usage details for this.DOM.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- clarify the setup steps
